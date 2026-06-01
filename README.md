@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @IveB3nJamin
-- 👀 I’m interested in Data Analytics, CS
-- 🌱 I’m currently learning C# and CS at USI
 - 📫 How to reach me:
 - Discord: 
 -     B3N#7299
