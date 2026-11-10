@@ -2,7 +2,7 @@
 - Discord: 
 -     B3N#7299
 - Email:
--     Benjamin22704@gmail.com
+-     Ben@damascus.com
 
 <!---
 IveB3nJamin/IveB3nJamin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
